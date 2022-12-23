@@ -22,6 +22,10 @@
 	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
 	<link href="<?php echo base_url(); ?>assets/css/app.css" rel="stylesheet">
 	<link href="<?php echo base_url(); ?>assets/css/icons.css" rel="stylesheet">
+
+	
+	<link href="<?php echo base_url(); ?>assets/plugins/select2/css/select2.min.css" rel="stylesheet" />
+	<link href="<?php echo base_url(); ?>assets/plugins/select2/css/select2-bootstrap4.css" rel="stylesheet" />
 	<!-- Theme Style CSS -->
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/dark-theme.css" />
 	<link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/semi-dark.css" />

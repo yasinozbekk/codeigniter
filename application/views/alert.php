@@ -1,7 +1,7 @@
 <?php 
 
 
-$alert = $this->session->userdata("alert");//controllerden gelen değeri $_GET gibi alıyoruz alerti
+$alert = $this->session->userdata("alert");
 
 
 if($alert){
